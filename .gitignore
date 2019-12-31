@@ -1,0 +1,37 @@
+.ipynb_checkpoints
+.DS_Store
+
+gerbers
+kits-cache.lib
+kits.html
+kits.kicad_pcb
+kits.pro
+kits.sch
+kits.xml
+kits_prettyvis.kicad_pcb
+kits_prettyvis.pro
+prettyvis.ipynb
+prettyvis
+
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ICM-20948)(type Legacy)(uri ${KIPRJMOD}/ICM-20948.lib)(options "")(descr ""))
+  (lib (name S2B-PH-SM4-TB_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/S2B-PH-SM4-TB_LF__SN_.lib)(options "")(descr ""))
+  (lib (name custom_parts)(type Legacy)(uri ${KIPRJMOD}/custom_parts.lib)(options "")(descr ""))
+)
