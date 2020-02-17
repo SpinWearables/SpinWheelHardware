@@ -2,15 +2,8 @@
 .DS_Store
 
 gerbers
-kits-cache.lib
 kits.html
-kits.kicad_pcb
-kits.pro
-kits.sch
 kits.xml
-kits_prettyvis.kicad_pcb
-kits_prettyvis.pro
-prettyvis.ipynb
 prettyvis
 
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
