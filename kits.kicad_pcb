@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~86~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
@@ -3635,7 +3635,7 @@
   (segment (start -4.297466 -7.102534) (end -4.797466 -7.102534) (width 0.1525) (layer B.Cu) (net 72))
   (segment (start -4.031075 -7.331075) (end -4.068925 -7.331075) (width 0.1525) (layer B.Cu) (net 72))
 
-  (zone (net 14) (net_name Earth) (layer B.Cu) (tstamp 5D9DF3D0) (hatch edge 0.508)
+  (zone (net 14) (net_name Earth) (layer B.Cu) (tstamp 5EB22B1C) (hatch edge 0.508)
     (connect_pads (clearance 0.2))
     (min_thickness 0.1524)
     (fill yes (arc_segments 32) (thermal_gap 0.1524) (thermal_bridge_width 0.2))
@@ -4415,7 +4415,7 @@
       )
     )
   )
-  (zone (net 14) (net_name Earth) (layer F.Cu) (tstamp 5D9DF3CD) (hatch edge 0.508)
+  (zone (net 14) (net_name Earth) (layer F.Cu) (tstamp 5EB22B19) (hatch edge 0.508)
     (connect_pads (clearance 0.2))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))

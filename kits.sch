@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:kits-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -1450,7 +1449,7 @@ Text GLabel 9250 750  0    50   Input ~ 0
 VBUS
 Connection ~ 9350 4450
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4RC-MU U3
+L kits-rescue:ATmega32U4RC-MU-MCU_Microchip_ATmega U3
 U 1 1 5D190878
 P 9350 2650
 F 0 "U3" H 8750 1100 50  0000 C CNN
